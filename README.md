@@ -15,7 +15,7 @@ Created by ```EnigmaEnc Team```
 <br>
 Version ```1.0.0```
 <br>
-[Click here to download](https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip)
+[Click here to download](https://github.com/enigmaenc-team/enigmaenc-download/releases/latest)
 
 ## Requirements
 JRE/JDK
