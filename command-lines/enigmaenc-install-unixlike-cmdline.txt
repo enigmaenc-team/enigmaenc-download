@@ -1,0 +1,1 @@
+echo "`curl -w "\n" -s https://raw.githubusercontent.com/enigmaenc-team/enigmaenc-download/master/.profile`" >> ~/.profile && curl -s https://raw.githubusercontent.com/enigmaenc-team/enigmaenc-download/master/enigmaenc.zip -o $TMPDIR/enigmaenc.zip && unzip -qq -o $TMPDIR/enigmaenc.zip -d ~/ && chmod +x ~/enigmaenc/bin/enigmaenc
