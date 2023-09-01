@@ -1,1 +1,1 @@
-apk update && apk upgrade && apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/enigmaenc-team/enigmaenc-download/master/command-lines/enigmaenc-install-unixlike-cmdline.txt) && export PATH=$PATH:~/enigmaenc/bin
+apk update && apk upgrade && apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/enigmaenc-team/enigmaenc-download/master/command-lines/enigmaenc-install-unixlike-cmdline.txt)
