@@ -1,0 +1,1 @@
+winget install Oracle.JDK.17 & curl --progress-bar -L https://github.com/enigmaenc-team/enigmaenc-download/releases/latest/download/enigmaenc.zip -o "C:\Users\%USERNAME%\Downloads\enigmaenc.zip" & tar -xf "C:\Users\%USERNAME%\Downloads\enigmaenc.zip"
